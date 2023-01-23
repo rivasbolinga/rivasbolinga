@@ -1,13 +1,68 @@
-# Hi there 👋 I am Andrea Rivas 
+<table width="100%" align="center">
+  
+<div align="left">
+  
+![Hi there! I'm Andea Rivas](https://user-images.githubusercontent.com/103900838/213986631-df165ec4-af77-4d60-a48a-0c705929fa7c.png)
+  
+</div>
 
+<div align="right">
+  
 
+  </div>
+  </div>
+  
+ # A bit about me
+ 
 - 🔭 I’m a full-time student at Microverse Bootcamp School.
 - 🌱 I am looking to collaborate on Front-End projects ( Full-Stack coming soon...)
 - 🌍 I am half Peruvian, born and raised in Spain, living at the moment in France but traveling around the world for the last 6 years.
 - 📁 You can see a bit of my hard work in my portfolio : https://github.com/rivasbolinga/Portfolio
 - 📫 Yo can contact me at andrearivas4cinfor@gmail.com
-- 👩🏽‍💻 Currently working (and in love) with vanilla JavaScript.
-- 🎨 Every time I start a project, my artistic side waits patiently for its moment with CSS.
+- 👩🏽‍💻 Currently working (and in love) with vanilla JavaScript. 
+- 🎨 Every time I start a project, my artistic side waits patiently for its moment with CSS. 
+
+# Knowledge base
+
+### Languages
+
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+</p>
+
+<h3>Frontend</h3>
+<p>
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  </a> 
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="webpack"/>
+  </a>
+</p>
+<p>
+
+# GitHub stats
 
 [![Andrea Rivas stats](https://github-readme-stats.vercel.app/api?username=rivasbolinga&show_icons=true&&theme=blufy)](https://github.com/rivasbolinga/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivasbolinga&show_icons=true&theme=bluefy)](https://github.com/rivasbolinga/github-readme-stats)
