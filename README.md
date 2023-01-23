@@ -2,8 +2,8 @@
   
 <div align="left">
   
-![Hi there! I'm Andea Rivas](https://user-images.githubusercontent.com/103900838/213986631-df165ec4-af77-4d60-a48a-0c705929fa7c.png)
-  
+  <img width="450" alt="Hi there! I'm andrea rivas" src="https://user-images.githubusercontent.com/103900838/214039856-2895b038-f10c-4967-bd2a-3c585e3508b7.png">
+
 </div>
 
 <div align="right">
