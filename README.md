@@ -66,6 +66,9 @@
 
 [![Andrea Rivas stats](https://github-readme-stats.vercel.app/api?username=rivasbolinga&show_icons=true&&theme=blufy)](https://github.com/rivasbolinga/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivasbolinga&show_icons=true&theme=bluefy)](https://github.com/rivasbolinga/github-readme-stats)
+  
+ # Show your support! ⭐
+  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:.
 <!--
 **rivasbolinga/rivasbolinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
