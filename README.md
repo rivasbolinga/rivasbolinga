@@ -31,7 +31,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/></a>
 
 
-### Frameworks
+### Frameworks and Libraries
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="60" height="60"/></a>
@@ -51,7 +51,7 @@
   
 
 <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h1>📊 Github Stats and Activity</h1></summary>
 
   <h3>🔥 Streak Stats</h3>
 
