@@ -67,7 +67,8 @@
 
 [![Andrea Rivas stats](https://github-readme-stats.vercel.app/api?username=rivasbolinga&show_icons=true&text_color=white&title_color=000000&bg_color=6f4785,e881a6,ededb7,f4a6d7,9adbe8,eee29f)](https://github.com/rivasbolinga/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivasbolinga&show_icons=true&theme=buefy&bg_color=bfe0fb,e8e9fb,fceffa,eafbfb,f0fbf4&title_color=24c1c7)](https://github.com/rivasbolinga/github-readme-stats)
-  
+ 
+
  # Show your support! ⭐
   Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:
 <!--
@@ -77,4 +78,3 @@ Here are some ideas to get you started:
 
 
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolingao=github-readme-stats)](https://github.com/rivasbolinga/github-readme-stats)
