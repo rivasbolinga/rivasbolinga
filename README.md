@@ -21,7 +21,7 @@
 - 📁 You can see a bit of my hard work in my portfolio : https://github.com/rivasbolinga/Portfolio
 - 📫 You can contact me at andrearivas4cinfor@gmail.com
 - 👩🏽‍💻 Currently working (and in love) with vanilla JavaScript. 
-- 🎨 Every time I start a project, my artistic side waits patiently for its moment with CSS. 
+- 🎨 I also love to desing.
 
 # Knowledge base
 
