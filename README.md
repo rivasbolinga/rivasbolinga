@@ -75,5 +75,6 @@
 
 Here are some ideas to get you started:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolingao=github-readme-stats)](https://github.com/rivasbolinga/github-readme-stats)
+
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolingao=github-readme-stats)](https://github.com/rivasbolinga/github-readme-stats)
