@@ -13,7 +13,7 @@
   </div>
   </div>
   
- # A bit about me
+ # About me
  
 - 🔭 I’m a full-time student at Microverse Bootcamp School.
 - 🌱 I am looking to collaborate on Front-End projects ( Full-Stack coming soon...)
@@ -65,11 +65,11 @@
 
 # GitHub stats
 
-[![Andrea Rivas stats](https://github-readme-stats.vercel.app/api?username=rivasbolinga&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/rivasbolinga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivasbolinga&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/rivasbolinga/github-readme-stats)
+[![Andrea Rivas stats](https://github-readme-stats.vercel.app/api?username=rivasbolinga&show_icons=true&text_color=white&title_color=000000&bg_color=6f4785,e881a6,ededb7,f4a6d7,9adbe8,eee29f)](https://github.com/rivasbolinga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivasbolinga&show_icons=true&theme=buefy&bg_color=bfe0fb,e8e9fb,fceffa,eafbfb,f0fbf4&title_color=24c1c7)](https://github.com/rivasbolinga/github-readme-stats)
   
  # Show your support! ⭐
-  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:.
+  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:
 <!--
 **rivasbolinga/rivasbolinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
