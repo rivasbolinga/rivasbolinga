@@ -47,7 +47,7 @@
 
 ###  Cloud hosting
 <a href="[https://reactjs.org/](https://www.netlify.com/)" target="_blank" rel="noreferrer">
-<img align="center" src="[https://cdn-icons-png.flaticon.com/512/1183/1183672.png](https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg)" alt="netifly" width="60" height="60"/></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="120" height="60"/></a>
 
 
 #
