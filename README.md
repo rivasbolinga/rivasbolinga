@@ -36,7 +36,9 @@
 </br>
 
 ### 📚 Frameworks and Libraries
+
 </br>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="60" height="60"/></a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
@@ -45,6 +47,7 @@
 <img align="center" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="redux" width="80" height="60"/></a>
 <a href="https://vitest.dev/" target="_blank"><img align="center" src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="55" height="55"/></a> 
 <a href="https://jestjs.io/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103900838/219062261-8a9b9a82-2967-4e21-abff-42005e4e6048.svg" alt="jest" width="55" height="55"/></a>
+
 </br>
 
 ###  ☁️ Cloud hosting
@@ -59,6 +62,10 @@
 <img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="netlify" height="40"/></a>
 <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white" height="30"></a>
 </p>
+</br>
+
+###  🛠️ Tools
+
 </br>
 
 #
