@@ -57,10 +57,10 @@
 <p>
   
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="150" height="40"/></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="150" height="20"/></a>
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
-<img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="netlify" height="40"/></a>
-<a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white" height="30"></a>
+<img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="netlify" height="20"/></a>
+<a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white" height="20"></a>
 </p>
 </br>
 
@@ -75,8 +75,15 @@
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
- 
-#
+  
+  #
+  
+ <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+
+  #
 
 <details> 
   
