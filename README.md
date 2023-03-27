@@ -57,7 +57,7 @@
 <p>
   
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="150" height="20"/></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify"  height="20"/></a>
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
 <img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="netlify" height="20"/></a>
 <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white" height="20"></a>
@@ -110,7 +110,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rivasbolinga&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
+</details>
 
  # Show your support! ⭐
   Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:
