@@ -80,9 +80,8 @@
   
  
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
-  #
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&)](https://github.com/anuraghazra/github-readme-stats)
 
 <details> 
   
@@ -105,7 +104,7 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rivasbolinga&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
