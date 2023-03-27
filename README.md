@@ -31,21 +31,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
 
 
-### Frameworks and Libraries
+### 📚 Frameworks and Libraries
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="60" height="60"/></a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://user-images.githubusercontent.com/103900838/222968100-66b1cdba-dcbe-4047-a88f-3f55ccf983ee.svg" alt="redux" width="60" height="60"/></a>
-
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+<img align="center" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="redux" width="80" height="60"/></a>
+  
 </p>
 <p>
   
@@ -75,12 +69,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rivasbolinga&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
+
  # Show your support! ⭐
   Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:
-<!--
-**rivasbolinga/rivasbolinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
