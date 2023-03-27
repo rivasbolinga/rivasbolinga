@@ -25,17 +25,18 @@
 
 # Knowledge base
 
-### 💻Languages 
+### 💻 Languages 
+</br>
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="80" height="80"/></a>
 
-
+</br>
 
 ### 📚 Frameworks and Libraries
-
+</br>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="60" height="60"/></a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
@@ -44,13 +45,24 @@
 <img align="center" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="redux" width="80" height="60"/></a>
 <a href="https://vitest.dev/" target="_blank"><img align="center" src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="55" height="55"/></a> 
 <a href="https://jestjs.io/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103900838/219062261-8a9b9a82-2967-4e21-abff-42005e4e6048.svg" alt="jest" width="55" height="55"/></a>
+</br>
 
-###  Cloud hosting
-<a href="[https://reactjs.org/](https://www.netlify.com/)" target="_blank" rel="noreferrer">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="120" height="60"/></a>
+###  ☁️ Cloud hosting
 
+</br>
+
+<p>
+  
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="150" height="40"/></a>
+<a href="https://pages.github.com/" target="_blank" rel="noreferrer">
+<img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="netlify" height="40"/></a>
+<a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white" height="30"></a>
+</p>
+</br>
 
 #
+
 <details> 
   
   <summary><h1>📊 Github Stats and Activity</h1></summary>
