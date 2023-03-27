@@ -38,7 +38,7 @@
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="60" height="60"/></a>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://user-images.githubusercontent.com/103900838/222968100-66b1cdba-dcbe-4047-a88f-3f55ccf983ee.svg" alt="redux" width="60" height="60"/></a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
 <img align="center" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="redux" width="80" height="60"/></a>
@@ -46,8 +46,10 @@
 <a href="https://jestjs.io/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103900838/219062261-8a9b9a82-2967-4e21-abff-42005e4e6048.svg" alt="jest" width="55" height="55"/></a>
 
 ###  Cloud hosting
+<a href="[https://reactjs.org/](https://www.netlify.com/)" target="_blank" rel="noreferrer">
+<img align="center" src="[https://cdn-icons-png.flaticon.com/512/1183/1183672.png](https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg)" alt="netifly" width="60" height="60"/></a>
 
-     <a href='https://www.netlify.com/'><img alt="netifly" src="https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg"></a>
+
 #
 <details> 
   
