@@ -8,7 +8,7 @@
 <div align=center>
   
 <img src="https://user-images.githubusercontent.com/103900838/228363680-66e3bffd-9b0a-40cd-a869-7f06fb245307.png" width=50px>
-<img src="https://user-images.githubusercontent.com/103900838/228363723-99b84af2-66b2-4a49-9c83-e1f083e8e8e5.png" width=50px>
+<a href="andrearivas4cinfor@gmail.com" <img src="https://user-images.githubusercontent.com/103900838/228363723-99b84af2-66b2-4a49-9c83-e1f083e8e8e5.png" width=50px></a>
 <a href="https://www.linkedin.com/in/andrearivaspalacios/"><img src="https://user-images.githubusercontent.com/103900838/228363714-f4750a3a-b458-467e-ac8a-b755d09a19bd.png" width=50px></a>
   
   </div>
