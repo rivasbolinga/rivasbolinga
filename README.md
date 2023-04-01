@@ -1,8 +1,6 @@
 <table width="100%" align="center">
   
-<div align="left">
-  
-  ![Black Yellow Futuristic Welcome To Video YouTube Intro](https://user-images.githubusercontent.com/103900838/229311274-fe92bb50-f22f-4aba-acc0-b4c13f9f4c20.jpg)
+![Black Yellow Futuristic Welcome To Video YouTube Intro (1)](https://user-images.githubusercontent.com/103900838/229311514-364e01c9-868d-4294-8025-3dc587990e71.jpg)
 
 
 </div>
