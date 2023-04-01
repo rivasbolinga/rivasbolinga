@@ -2,8 +2,9 @@
   
 <div align="left">
   
-![Hi there! I'm andrea rivas (1)](https://user-images.githubusercontent.com/103900838/214040077-ac88aee3-3f8c-49e3-a613-40d283e68d02.png)
-  
+  ![Black Yellow Futuristic Welcome To Video YouTube Intro](https://user-images.githubusercontent.com/103900838/229311274-fe92bb50-f22f-4aba-acc0-b4c13f9f4c20.jpg)
+
+
 </div>
 <div align="center">
 <a href="https://wa.me/34602564547"><img src="https://user-images.githubusercontent.com/103900838/228363680-66e3bffd-9b0a-40cd-a869-7f06fb245307.png" width=50px> 
