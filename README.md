@@ -20,7 +20,7 @@
 - 📁 You can see a bit of my hard work in my [Portfolio](https://github.com/rivasbolinga/Portfolio)
 - 📫 You can contact me at andrearivas4cinfor@gmail.com
 - 👩🏽‍💻 Currently working with React. 
-- 🎨 Love for design and art.
+- 🎨 Passionate for design and art.
 
 # Knowledge base
 
