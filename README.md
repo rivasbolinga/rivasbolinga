@@ -74,16 +74,16 @@
  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   
-  # My Top Group Projects I have contributed
+  # My Top Group Projects I have contributed 
   
 
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º)](https://github.com/rivasbolinga/JS-capstone-project)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Countries-React-Redux&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&)](https://github.com/rivasbolinga/Countries-React-Redux)
 
-[![Readme Card width=100px](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Countries-React-Redux&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&)](https://github.com/rivasbolinga/Countries-React-Redux)
-  
+<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+
+<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+
+<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+
 <a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
 
 <details> 
