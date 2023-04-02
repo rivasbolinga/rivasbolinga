@@ -5,9 +5,11 @@
 
 </div>
 <div align="center">
-<a href="https://wa.me/34602564547"><img src="https://user-images.githubusercontent.com/103900838/228363680-66e3bffd-9b0a-40cd-a869-7f06fb245307.png" width=50px> 
-<a href="mailto:andrearivas4cinfor@gmail.com"><img src="https://user-images.githubusercontent.com/103900838/228363723-99b84af2-66b2-4a49-9c83-e1f083e8e8e5.png" width=50px></a>  
-<a href="https://www.linkedin.com/in/andrearivaspalacios/"><img src="https://user-images.githubusercontent.com/103900838/228363714-f4750a3a-b458-467e-ac8a-b755d09a19bd.png" width=50px></a>
+<a href="https://wa.me/34602564547"><img src="https://user-images.githubusercontent.com/103900838/228363680-66e3bffd-9b0a-40cd-a869-7f06fb245307.png" width=60px> 
+  
+<a href="mailto:andrearivas4cinfor@gmail.com"><img src="https://user-images.githubusercontent.com/103900838/228363723-99b84af2-66b2-4a49-9c83-e1f083e8e8e5.png" width=60px></a>  
+  
+<a href="https://www.linkedin.com/in/andrearivaspalacios/"><img src="https://user-images.githubusercontent.com/103900838/228363714-f4750a3a-b458-467e-ac8a-b755d09a19bd.png" width=60px></a>
   
   </div>
   
@@ -26,10 +28,10 @@
 ### 💻 Languages 
 </br>
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="80" height="80"/></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="60" height="60"/></a>
 
 </br>
 
@@ -77,14 +79,8 @@
   #  My Top Group Projects I have contributed 
   
 <p align="left">
-
 <a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-
-<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-
-<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-
-<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
 
