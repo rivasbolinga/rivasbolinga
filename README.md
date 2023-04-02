@@ -81,6 +81,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º)](https://github.com/rivasbolinga/JS-capstone-project)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Countries-React-Redux&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&)](https://github.com/rivasbolinga/Countries-React-Redux)
+
+[![Readme Card width=100px](https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Countries-React-Redux&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&)](https://github.com/rivasbolinga/Countries-React-Redux)
   
 </div>
 
