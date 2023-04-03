@@ -75,14 +75,20 @@
  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   
-  #  My Top Group Projects I have contributed to
+  #   My Top Group Projects I have contributed to
   
 <p align="left">
 <a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
 <a href="https://github.com/rivasbolinga/Space-Travel-Hub"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Space-Travel-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a><a href="https://github.com/rica213/REST-Countries-API"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/Chi1710/jobs-listing-with-filtering-react"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=Chi1710&repo=jobs-listing-with-filtering-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
-
+#  My vanilla JavaScript top projects
+  
+<p align="left">
+<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+<a href="https://github.com/rivasbolinga/Space-Travel-Hub"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Space-Travel-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a><a href="https://github.com/rica213/REST-Countries-API"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/Chi1710/jobs-listing-with-filtering-react"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=Chi1710&repo=jobs-listing-with-filtering-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+  
+</p>
 <details> 
   
   <summary><h1>📊 Github Stats and Activity</h1></summary>
