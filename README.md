@@ -78,15 +78,20 @@
   #   My Top Group Projects I have contributed to
   
 <p align="left">
-<a href="https://github.com/rivasbolinga/Calculadora"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=JS-capstone-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
 <a href="https://github.com/rivasbolinga/Space-Travel-Hub"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Space-Travel-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a><a href="https://github.com/rica213/REST-Countries-API"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/Chi1710/jobs-listing-with-filtering-react"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=Chi1710&repo=jobs-listing-with-filtering-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
 #  My vanilla JavaScript top projects
   
 <p align="left">
-<a href="https://github.com/rivasbolinga/JS-capstone-project"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Calculadora&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-<a href="https://github.com/rivasbolinga/Space-Travel-Hub"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Space-Travel-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a><a href="https://github.com/rica213/REST-Countries-API"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/Chi1710/jobs-listing-with-filtering-react"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=Chi1710&repo=jobs-listing-with-filtering-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+<a href="https://github.com/rivasbolinga/Weather-App"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Weather-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+
+<a href="https://github.com/rivasbolinga/Library"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Library&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a>
+
+<a href="https://github.com/rivasbolinga/Tic-Tac-Toe"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+
+<a href="https://github.com/rivasbolinga/To-Do-App"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=To-Do-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
 <details> 
