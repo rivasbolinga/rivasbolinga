@@ -82,6 +82,7 @@
 <a href="https://github.com/rivasbolinga/Space-Travel-Hub"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Space-Travel-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a><a href="https://github.com/rica213/REST-Countries-API"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a><a href="https://github.com/Chi1710/jobs-listing-with-filtering-react"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=Chi1710&repo=jobs-listing-with-filtering-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
+
 #  My vanilla JavaScript top projects
   
 <p align="left">
