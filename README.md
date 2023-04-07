@@ -92,7 +92,7 @@
 <a href="https://github.com/rivasbolinga/To-Do-App"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=To-Do-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
-#  My vanilla JavaScript top Projects
+#  My React top Projects
   
 <p align="left">
 <a href="https://github.com/rivasbolinga/Weather-App"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Weather-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=1F222E" alt="my-capstone-project"></a>
