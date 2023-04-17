@@ -102,6 +102,18 @@
 <a href="https://github.com/rivasbolinga/book-store"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=book-store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
+### GitHub Activity
+
+<!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
+
+<!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+2. ⬆️ Pushed 3 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+3. ⬆️ Pushed 23 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+5. 👍 Approved [#13](https://github.com/rivasbolinga/Afghan-Restaurant/pull/13#pullrequestreview-1387011485) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+<!--RECENT_ACTIVITY:end-->
+
 <details> 
   
   <summary><h1>📊 Github Stats and Activity</h1></summary>
