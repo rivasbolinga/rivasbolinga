@@ -117,7 +117,7 @@
 
 <details> 
   
-  <summary><h1>📊 Github Stats and Activity</h1></summary>
+  <summary><h1>📊 Github Stats</h1></summary>
 
   <h3>🔥 Streak Stats</h3>
 
