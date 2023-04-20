@@ -108,8 +108,8 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+1. ❌ Closed PR [#15](https://github.com/rivasbolinga/Afghan-Restaurant/pull/15) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+2. 💪 Opened PR [#15](https://github.com/rivasbolinga/Afghan-Restaurant/pull/15) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
