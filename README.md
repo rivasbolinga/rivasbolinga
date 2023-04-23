@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5](https://github.com/rivasbolinga/Afghan-Restaurant/issues/5) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-2. ✔️ Closed issue [#25](https://github.com/rivasbolinga/massage-caroline/issues/25) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-3. ✔️ Closed issue [#27](https://github.com/rivasbolinga/massage-caroline/issues/27) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-4. ⬆️ Pushed 4 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-5. 🎉 Merged PR [#32](https://github.com/rivasbolinga/massage-caroline/pull/32) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+2. ✔️ Closed issue [#5](https://github.com/rivasbolinga/Afghan-Restaurant/issues/5) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+3. ✔️ Closed issue [#25](https://github.com/rivasbolinga/massage-caroline/issues/25) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+4. ✔️ Closed issue [#27](https://github.com/rivasbolinga/massage-caroline/issues/27) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+5. ⬆️ Pushed 4 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
