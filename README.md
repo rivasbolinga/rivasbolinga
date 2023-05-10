@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-2. ✔️ Closed issue [#40](https://github.com/rivasbolinga/massage-caroline/issues/40) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-3. ✔️ Closed issue [#20](https://github.com/rivasbolinga/massage-caroline/issues/20) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-4. ⬆️ Pushed 18 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-5. 🎉 Merged PR [#49](https://github.com/rivasbolinga/massage-caroline/pull/49) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+1. ⬆️ Pushed 4 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
+2. 🎉 Merged PR [#1](https://github.com/rivasbolinga/store/pull/1) in [rivasbolinga/store](https://github.com/rivasbolinga/store)
+3. 💪 Opened PR [#1](https://github.com/rivasbolinga/store/pull/1) in [rivasbolinga/store](https://github.com/rivasbolinga/store)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
