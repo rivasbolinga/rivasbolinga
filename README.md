@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/rivasbolinga/store/pull/6) in [rivasbolinga/store](https://github.com/rivasbolinga/store)
-2. ⬆️ Pushed 4 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
-3. 💪 Opened PR [#6](https://github.com/rivasbolinga/store/pull/6) in [rivasbolinga/store](https://github.com/rivasbolinga/store)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
+3. 🎉 Merged PR [#6](https://github.com/rivasbolinga/store/pull/6) in [rivasbolinga/store](https://github.com/rivasbolinga/store)
+4. ⬆️ Pushed 4 commit(s) to [rivasbolinga/store](https://github.com/rivasbolinga/store)
+5. 💪 Opened PR [#6](https://github.com/rivasbolinga/store/pull/6) in [rivasbolinga/store](https://github.com/rivasbolinga/store)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
