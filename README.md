@@ -109,9 +109,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+2. ⬆️ Pushed 19 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+3. 🎉 Merged PR [#12](https://github.com/rivasbolinga/Rustic-Roots/pull/12) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+4. 💪 Opened PR [#12](https://github.com/rivasbolinga/Rustic-Roots/pull/12) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
 <!--RECENT_ACTIVITY:end-->
 
