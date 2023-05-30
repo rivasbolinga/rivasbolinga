@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-2. ⬆️ Pushed 19 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-3. 🎉 Merged PR [#12](https://github.com/rivasbolinga/Rustic-Roots/pull/12) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-4. 💪 Opened PR [#12](https://github.com/rivasbolinga/Rustic-Roots/pull/12) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
+4. ⬆️ Pushed 4 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
+5. 🎉 Merged PR [#8](https://github.com/rivasbolinga/Leaderboard/pull/8) in [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
