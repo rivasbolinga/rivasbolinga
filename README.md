@@ -110,9 +110,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. 👍 Approved [#1](https://github.com/wickathou/review-this/pull/1#pullrequestreview-1265873650) in [wickathou/review-this](https://github.com/wickathou/review-this)
 2. 👍 Approved [#1](https://github.com/wickathou/review-this/pull/1#pullrequestreview-1265873650) in [wickathou/review-this](https://github.com/wickathou/review-this)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
-4. ⬆️ Pushed 5 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
-5. 🎉 Merged PR [#9](https://github.com/rivasbolinga/Leaderboard/pull/9) in [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
+3. 👍 Approved [#1](https://github.com/wickathou/review-this/pull/1#pullrequestreview-1265873650) in [wickathou/review-this](https://github.com/wickathou/review-this)
+4. 👍 Approved [#1](https://github.com/wickathou/review-this/pull/1#pullrequestreview-1265873650) in [wickathou/review-this](https://github.com/wickathou/review-this)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Leaderboard](https://github.com/rivasbolinga/Leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
