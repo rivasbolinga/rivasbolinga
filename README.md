@@ -109,10 +109,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Youtube-Page](https://github.com/rivasbolinga/Youtube-Page)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Youtube-Page](https://github.com/rivasbolinga/Youtube-Page)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/odin-recipes](https://github.com/rivasbolinga/odin-recipes)
-5. ⬆️ Pushed 7 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+3. 🎉 Merged PR [#16](https://github.com/rivasbolinga/Rustic-Roots/pull/16) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+4. ⬆️ Pushed 4 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+5. 💪 Opened PR [#16](https://github.com/rivasbolinga/Rustic-Roots/pull/16) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
