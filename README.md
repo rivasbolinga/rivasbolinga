@@ -110,9 +110,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Weather-App](https://github.com/rivasbolinga/Weather-App)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Weather-App](https://github.com/rivasbolinga/Weather-App)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/RockPaperScissors](https://github.com/rivasbolinga/RockPaperScissors)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Weather-App](https://github.com/rivasbolinga/Weather-App)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
