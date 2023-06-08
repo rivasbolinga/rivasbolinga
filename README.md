@@ -110,9 +110,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-3. 📔 Created new repository [rivasbolinga/My-Portfolio](https://github.com/rivasbolinga/My-Portfolio)
-4. 📔 Created new repository [rivasbolinga/portfolio-react](https://github.com/rivasbolinga/portfolio-react)
-5. ⬆️ Pushed 2 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
