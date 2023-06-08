@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rivasbolinga/My-Portfolio](https://github.com/rivasbolinga/My-Portfolio)
-2. 📔 Created new repository [rivasbolinga/portfolio-react](https://github.com/rivasbolinga/portfolio-react)
-3. ⬆️ Pushed 2 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-4. 🎉 Merged PR [#21](https://github.com/rivasbolinga/Rustic-Roots/pull/21) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-5. 💪 Opened PR [#21](https://github.com/rivasbolinga/Rustic-Roots/pull/21) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+3. 📔 Created new repository [rivasbolinga/My-Portfolio](https://github.com/rivasbolinga/My-Portfolio)
+4. 📔 Created new repository [rivasbolinga/portfolio-react](https://github.com/rivasbolinga/portfolio-react)
+5. ⬆️ Pushed 2 commit(s) to [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
