@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+1. 🎉 Merged PR [#1](https://github.com/rivasbolinga/my-portfolio/pull/1) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+2. ⬆️ Pushed 20 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+3. 💪 Opened PR [#1](https://github.com/rivasbolinga/my-portfolio/pull/1) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-5. ⭐ Starred [rica213/newbieDictionary](https://github.com/rica213/newbieDictionary)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
