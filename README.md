@@ -111,8 +111,8 @@
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-4. ⭐ Starred [rica213/newbieDictionary](https://github.com/rica213/newbieDictionary)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+5. ⭐ Starred [rica213/newbieDictionary](https://github.com/rica213/newbieDictionary)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
