@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/The-Gaming-Goat](https://github.com/rivasbolinga/The-Gaming-Goat)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/The-Gaming-Goat](https://github.com/rivasbolinga/The-Gaming-Goat)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/The-Gaming-Goat](https://github.com/rivasbolinga/The-Gaming-Goat)
+4. ⬆️ Pushed 6 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+5. 🎉 Merged PR [#2](https://github.com/rivasbolinga/my-portfolio/pull/2) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
