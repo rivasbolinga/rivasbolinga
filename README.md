@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-3. ⬆️ Pushed 4 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-4. 🎉 Merged PR [#5](https://github.com/rivasbolinga/my-portfolio/pull/5) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-5. 💪 Opened PR [#5](https://github.com/rivasbolinga/my-portfolio/pull/5) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/ToDoList](https://github.com/rivasbolinga/ToDoList)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/ToDoList](https://github.com/rivasbolinga/ToDoList)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/ToDoList](https://github.com/rivasbolinga/ToDoList)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/ToDoList](https://github.com/rivasbolinga/ToDoList)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
