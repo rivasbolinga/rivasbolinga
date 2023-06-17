@@ -99,7 +99,7 @@
 <a href="https://github.com/rivasbolinga/Rustic-Roots"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Rustic-Roots&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
 <a href="https://github.com/rivasbolinga/Countries-React-Redux"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=Countries-React-Redux&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-space-project"></a>
 <a href="https://github.com/rivasbolinga/React-Math-magicians"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=React-Math-magicians&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-<a href="https://github.com/rivasbolinga/book-store"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=book-store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
+<a href="https://github.com/rivasbolinga/The-Gaming-Goat"><img width="378" src="https://github-readme-stats.vercel.app/api/pin/?username=rivasbolinga&repo=The-Gaming-Goat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
   
 </p>
 
