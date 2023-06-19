@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Tic-Tac-Toe](https://github.com/rivasbolinga/Tic-Tac-Toe)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Tic-Tac-Toe](https://github.com/rivasbolinga/Tic-Tac-Toe)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/ToDoList](https://github.com/rivasbolinga/ToDoList)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/ToDoList](https://github.com/rivasbolinga/ToDoList)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Tic-Tac-Toe](https://github.com/rivasbolinga/Tic-Tac-Toe)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Tic-Tac-Toe](https://github.com/rivasbolinga/Tic-Tac-Toe)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
