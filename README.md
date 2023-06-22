@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/math-magicians](https://github.com/rivasbolinga/math-magicians)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/math-magicians](https://github.com/rivasbolinga/math-magicians)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/React-Math-magicians](https://github.com/rivasbolinga/React-Math-magicians)
-4. ⬆️ Pushed 2 commit(s) to [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
-5. 🎉 Merged PR [#11](https://github.com/rivasbolinga/globe-connect/pull/11) in [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/math-magicians](https://github.com/rivasbolinga/math-magicians)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
