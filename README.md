@@ -108,10 +108,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-2. 🎉 Merged PR [#8](https://github.com/rivasbolinga/my-portfolio/pull/8) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-4. 💪 Opened PR [#8](https://github.com/rivasbolinga/my-portfolio/pull/8) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
