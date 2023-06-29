@@ -108,9 +108,9 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#23](https://github.com/rivasbolinga/Rustic-Roots/issues/23) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-2. ❗️ Opened issue [#22](https://github.com/rivasbolinga/Rustic-Roots/issues/22) in [rivasbolinga/Rustic-Roots](https://github.com/rivasbolinga/Rustic-Roots)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+1. ⬆️ Pushed 10 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+2. 🎉 Merged PR [#9](https://github.com/rivasbolinga/my-portfolio/pull/9) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+3. 💪 Opened PR [#9](https://github.com/rivasbolinga/my-portfolio/pull/9) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
