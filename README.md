@@ -111,8 +111,8 @@
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-4. ⬆️ Pushed 10 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
-5. 🎉 Merged PR [#9](https://github.com/rivasbolinga/my-portfolio/pull/9) in [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
+5. ⬆️ Pushed 10 commit(s) to [rivasbolinga/my-portfolio](https://github.com/rivasbolinga/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
