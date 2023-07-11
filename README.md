@@ -108,7 +108,7 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+1. 💪 Opened PR [#2](https://github.com/rivasbolinga/vet-clinic/pull/2) in [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
