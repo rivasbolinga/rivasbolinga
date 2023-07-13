@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
-2. 🎉 Merged PR [#3](https://github.com/rivasbolinga/vet-clinic/pull/3) in [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
-3. 💪 Opened PR [#3](https://github.com/rivasbolinga/vet-clinic/pull/3) in [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+5. ⬆️ Pushed 6 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
