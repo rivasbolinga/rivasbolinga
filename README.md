@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#12](https://github.com/rivasbolinga/globe-connect/issues/12) in [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
-2. ❗️ Opened issue [#5](https://github.com/rivasbolinga/Weather-App/issues/5) in [rivasbolinga/Weather-App](https://github.com/rivasbolinga/Weather-App)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
+1. ⬆️ Pushed 5 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+2. 🎉 Merged PR [#5](https://github.com/rivasbolinga/vet-clinic/pull/5) in [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+3. 💪 Opened PR [#5](https://github.com/rivasbolinga/vet-clinic/pull/5) in [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
