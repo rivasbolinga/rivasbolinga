@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rica213/ruby-startup-project-template](https://github.com/rica213/ruby-startup-project-template)
-2. 📔 Created new repository [rivasbolinga/morse-code](https://github.com/rivasbolinga/morse-code)
-3. ⬆️ Pushed 1 commit(s) to [danielsafari143/vet-clinic](https://github.com/danielsafari143/vet-clinic)
-4. ⬆️ Pushed 1 commit(s) to [danielsafari143/vet-clinic](https://github.com/danielsafari143/vet-clinic)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/vet-clinic](https://github.com/rivasbolinga/vet-clinic)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/morse-code](https://github.com/rivasbolinga/morse-code)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/morse-code](https://github.com/rivasbolinga/morse-code)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/morse-code](https://github.com/rivasbolinga/morse-code)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/morse-code](https://github.com/rivasbolinga/morse-code)
+5. 🤝 Became collaborator on [rivasbolinga/morse-code](https://github.com/rivasbolinga/morse-code)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
