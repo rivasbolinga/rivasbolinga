@@ -108,10 +108,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
-2. 🤝 Became collaborator on [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
+1. ⬆️ Pushed 10 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
+2. 🎉 Merged PR [#1](https://github.com/rivasbolinga/my-enumerable/pull/1) in [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
+4. 🤝 Became collaborator on [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
 <!--RECENT_ACTIVITY:end-->
 
