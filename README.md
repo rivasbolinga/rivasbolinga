@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
+2. 🎉 Merged PR [#1](https://github.com/rivasbolinga/school-library/pull/1) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+3. ⬆️ Pushed 24 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
