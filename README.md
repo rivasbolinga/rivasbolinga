@@ -108,10 +108,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/rivasbolinga/rivasbolinga/issues/8) in [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
-2. ❗️ Opened issue [#13](https://github.com/rivasbolinga/globe-connect/issues/13) in [rivasbolinga/globe-connect](https://github.com/rivasbolinga/globe-connect)
-3. ⬆️ Pushed 10 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
-4. 🎉 Merged PR [#1](https://github.com/rivasbolinga/my-enumerable/pull/1) in [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-enumerable](https://github.com/rivasbolinga/my-enumerable)
 <!--RECENT_ACTIVITY:end-->
 
