@@ -108,9 +108,9 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 18 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-2. 🎉 Merged PR [#2](https://github.com/rivasbolinga/school-library/pull/2) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-3. 💪 Opened PR [#2](https://github.com/rivasbolinga/school-library/pull/2) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 <!--RECENT_ACTIVITY:end-->
