@@ -108,8 +108,8 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
+1. ⭐ Starred [learn-webdevYT/to-do-list](https://github.com/learn-webdevYT/to-do-list)
+2. ⭐ Starred [shaikhsufyan/Basic-To-Advance-JavaScript-Project](https://github.com/shaikhsufyan/Basic-To-Advance-JavaScript-Project)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
