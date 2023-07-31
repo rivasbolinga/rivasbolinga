@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-3. ⭐ Starred [shasherazi/laptops-ecommerce](https://github.com/shasherazi/laptops-ecommerce)
-4. 🤝 Became collaborator on [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
+2. ⬆️ Pushed 11 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+3. 🎉 Merged PR [#5](https://github.com/rivasbolinga/school-library/pull/5) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+5. 💪 Opened PR [#5](https://github.com/rivasbolinga/school-library/pull/5) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
