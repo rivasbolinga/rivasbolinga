@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [learn-webdevYT/to-do-list](https://github.com/learn-webdevYT/to-do-list)
-2. ⭐ Starred [shaikhsufyan/Basic-To-Advance-JavaScript-Project](https://github.com/shaikhsufyan/Basic-To-Advance-JavaScript-Project)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-awesome-dashboard](https://github.com/rivasbolinga/my-awesome-dashboard)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
+3. ✔️ Closed issue [#1](https://github.com/rivasbolinga/koach-home/issues/1) in [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
+4. ⬆️ Pushed 3 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
+5. 🎉 Merged PR [#18](https://github.com/rivasbolinga/koach-home/pull/18) in [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
