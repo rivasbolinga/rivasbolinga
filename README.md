@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
-3. ✔️ Closed issue [#1](https://github.com/rivasbolinga/koach-home/issues/1) in [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
-4. ⬆️ Pushed 3 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
-5. 🎉 Merged PR [#18](https://github.com/rivasbolinga/koach-home/pull/18) in [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+3. ⭐ Starred [shasherazi/laptops-ecommerce](https://github.com/shasherazi/laptops-ecommerce)
+4. 🤝 Became collaborator on [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/koach-home](https://github.com/rivasbolinga/koach-home)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
