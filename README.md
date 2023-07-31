@@ -31,7 +31,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="60" height="60"/></a>
-
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="html5" width="60" height="80"/></a>
 </br>
 
 ### 📚 Frameworks and Libraries
