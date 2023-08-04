@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 19 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-2. 🎉 Merged PR [#7](https://github.com/rivasbolinga/school-library/pull/7) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-3. 💪 Opened PR [#7](https://github.com/rivasbolinga/school-library/pull/7) in [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/school-library](https://github.com/rivasbolinga/school-library)
+1. ⭐ Starred [ShaliniNayan/OOP-school-library](https://github.com/ShaliniNayan/OOP-school-library)
+2. ⭐ Starred [hienphan0111/ai-comparision](https://github.com/hienphan0111/ai-comparision)
+3. ⭐ Starred [TamaraDimov/TDD](https://github.com/TamaraDimov/TDD)
+4. ⭐ Starred [johnie261/book-a-reservation-frontend](https://github.com/johnie261/book-a-reservation-frontend)
+5. ⭐ Starred [zeff96/doctor_appoitment_front_end](https://github.com/zeff96/doctor_appoitment_front_end)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
