@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/rivasbolinga/my-things/issues/8) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-2. ❗️ Opened issue [#7](https://github.com/rivasbolinga/my-things/issues/7) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-3. ❗️ Opened issue [#6](https://github.com/rivasbolinga/my-things/issues/6) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-4. ❗️ Opened issue [#5](https://github.com/rivasbolinga/my-things/issues/5) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-5. 🤝 Became collaborator on [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+5. ⬆️ Pushed 12 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
