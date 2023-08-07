@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rica213/Leaderboard](https://github.com/rica213/Leaderboard)
-2. 🔴 Requested 1 change(s) for [#5](https://github.com/rica213/Leaderboard/pull/5#pullrequestreview-1563810429) in [rica213/Leaderboard](https://github.com/rica213/Leaderboard)
-3. ⭐ Starred [Kel-nana/TDD](https://github.com/Kel-nana/TDD)
-4. ⭐ Starred [Kel-nana/school_library](https://github.com/Kel-nana/school_library)
-5. ⭐ Starred [rivasbolinga/ruby-TDD](https://github.com/rivasbolinga/ruby-TDD)
+1. 📔 Created new repository [rivasbolinga/tailwind](https://github.com/rivasbolinga/tailwind)
+2. ⭐ Starred [rica213/Leaderboard](https://github.com/rica213/Leaderboard)
+3. 🔴 Requested 1 change(s) for [#5](https://github.com/rica213/Leaderboard/pull/5#pullrequestreview-1563810429) in [rica213/Leaderboard](https://github.com/rica213/Leaderboard)
+4. ⭐ Starred [Kel-nana/TDD](https://github.com/Kel-nana/TDD)
+5. ⭐ Starred [Kel-nana/school_library](https://github.com/Kel-nana/school_library)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
