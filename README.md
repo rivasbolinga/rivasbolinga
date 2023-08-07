@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rivasbolinga/tailwind](https://github.com/rivasbolinga/tailwind)
-2. ⭐ Starred [rica213/Leaderboard](https://github.com/rica213/Leaderboard)
-3. 🔴 Requested 1 change(s) for [#5](https://github.com/rica213/Leaderboard/pull/5#pullrequestreview-1563810429) in [rica213/Leaderboard](https://github.com/rica213/Leaderboard)
-4. ⭐ Starred [Kel-nana/TDD](https://github.com/Kel-nana/TDD)
-5. ⭐ Starred [Kel-nana/school_library](https://github.com/Kel-nana/school_library)
+1. ❗️ Opened issue [#8](https://github.com/rivasbolinga/my-things/issues/8) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+2. ❗️ Opened issue [#7](https://github.com/rivasbolinga/my-things/issues/7) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+3. ❗️ Opened issue [#6](https://github.com/rivasbolinga/my-things/issues/6) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+4. ❗️ Opened issue [#5](https://github.com/rivasbolinga/my-things/issues/5) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+5. 🤝 Became collaborator on [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
