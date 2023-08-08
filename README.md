@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#24](https://github.com/rivasbolinga/my-things/pull/24#pullrequestreview-1566541977) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-2. 🔴 Requested 4 change(s) for [#23](https://github.com/rivasbolinga/my-things/pull/23#pullrequestreview-1566504679) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-3. 💬 Commented on [#23](https://github.com/rivasbolinga/my-things/pull/23#discussion_r1286619635) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-4. 💬 Commented on [#23](https://github.com/rivasbolinga/my-things/pull/23#discussion_r1286617963) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-5. 💪 Opened PR [#22](https://github.com/rivasbolinga/my-things/pull/22) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+1. 🔱 Forked [rivasbolinga/complete-node-bootcamp](https://github.com/rivasbolinga/complete-node-bootcamp) from [jonasschmedtmann/complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
+2. ⭐ Starred [jonasschmedtmann/complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
+3. 💬 Commented on [#23](https://github.com/rivasbolinga/my-things/pull/23#discussion_r1286765474) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+4. 👍 Approved [#23](https://github.com/rivasbolinga/my-things/pull/23#pullrequestreview-1566740713) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+5. 👍 Approved [#23](https://github.com/rivasbolinga/my-things/pull/23#pullrequestreview-1566740713) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
