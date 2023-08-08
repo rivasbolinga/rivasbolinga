@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+1. 💪 Opened PR [#22](https://github.com/rivasbolinga/my-things/pull/22) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-5. ⬆️ Pushed 12 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
