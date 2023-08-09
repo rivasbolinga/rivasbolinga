@@ -111,7 +111,7 @@
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-4. ⬆️ Pushed 15 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
