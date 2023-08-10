@@ -108,10 +108,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#29](https://github.com/rivasbolinga/my-things/pull/29#discussion_r1289595503) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-4. 💬 Commented on [#29](https://github.com/rivasbolinga/my-things/pull/29#discussion_r1289565356) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+1. 📔 Created new repository [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+2. ✔️ Closed issue [#18](https://github.com/rivasbolinga/my-things/issues/18) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+3. ⬆️ Pushed 3 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+4. 💪 Opened PR [#32](https://github.com/rivasbolinga/my-things/pull/32) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
