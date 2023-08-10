@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+1. 💬 Commented on [#29](https://github.com/rivasbolinga/my-things/pull/29#discussion_r1289595503) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-4. 👍 Approved [#27](https://github.com/rivasbolinga/my-things/pull/27#pullrequestreview-1568930111) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-5. 💬 Commented on [#27](https://github.com/rivasbolinga/my-things/pull/27#issuecomment-1670822891) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+4. 💬 Commented on [#29](https://github.com/rivasbolinga/my-things/pull/29#discussion_r1289565356) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
