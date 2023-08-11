@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#33](https://github.com/rivasbolinga/my-things/pull/33) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-2. ⬆️ Pushed 114 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-3. 💪 Opened PR [#33](https://github.com/rivasbolinga/my-things/pull/33) in [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/my-things](https://github.com/rivasbolinga/my-things)
-5. 📔 Created new repository [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+2. ⬆️ Pushed 2 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+4. ⬆️ Pushed 2 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
