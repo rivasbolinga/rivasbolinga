@@ -112,7 +112,7 @@
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+5. ⬆️ Pushed 2 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
