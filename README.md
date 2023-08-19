@@ -108,11 +108,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
-2. ⭐ Starred [gilsonfsdev/portfolio](https://github.com/gilsonfsdev/portfolio)
-3. ⭐ Starred [gilsonfsdev/gilsonfsdev](https://github.com/gilsonfsdev/gilsonfsdev)
-4. ⭐ Starred [gilsonfsdev/toDo](https://github.com/gilsonfsdev/toDo)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
