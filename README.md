@@ -109,10 +109,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
-2. ⭐ Starred [vladwulf/nestjs-api-tutorial](https://github.com/vladwulf/nestjs-api-tutorial)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
+5. ⭐ Starred [vladwulf/nestjs-api-tutorial](https://github.com/vladwulf/nestjs-api-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
