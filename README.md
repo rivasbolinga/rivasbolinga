@@ -108,7 +108,7 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
+1. ⭐ Starred [yaasiin-ayeva/Yield-Web](https://github.com/yaasiin-ayeva/Yield-Web)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/nestjs](https://github.com/rivasbolinga/nestjs)
