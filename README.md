@@ -1,6 +1,5 @@
 <table width="100%" align="center">
-  
-![Monochrome Watercolor Live Your Dream T-Shirt](https://github.com/rivasbolinga/rivasbolinga/assets/103900838/3df20b78-7252-4894-ae5e-c1e04c245fb8)
+<img width="1000px" src="https://github.com/rivasbolinga/rivasbolinga/assets/103900838/3df20b78-7252-4894-ae5e-c1e04c245fb8"/>
 
 
 </div>
