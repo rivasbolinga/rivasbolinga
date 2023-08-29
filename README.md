@@ -1,6 +1,6 @@
 <table width="100%" align="center">
   
-![Black Yellow Futuristic Welcome To Video YouTube Intro (1)](https://user-images.githubusercontent.com/103900838/229311514-364e01c9-868d-4294-8025-3dc587990e71.jpg)
+![Monochrome Watercolor Live Your Dream T-Shirt](https://github.com/rivasbolinga/rivasbolinga/assets/103900838/3df20b78-7252-4894-ae5e-c1e04c245fb8)
 
 
 </div>
