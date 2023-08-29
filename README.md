@@ -32,7 +32,9 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="60" height="60"/></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="html5" width="60" height="80"/></a>
+<a href="https://nodejs.org/en" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="html5" width="100" height="50"/></a>
 </br>
+
 
 ### 📚 Frameworks and Libraries
 
@@ -46,6 +48,7 @@
 <img align="center" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="redux" width="80" height="60"/></a>
 <a href="https://vitest.dev/" target="_blank"><img align="center" src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="55" height="55"/></a> 
 <a href="https://jestjs.io/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103900838/219062261-8a9b9a82-2967-4e21-abff-42005e4e6048.svg" alt="jest" width="55" height="55"/></a>
+<a href="https://expressjs.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="html5" width="170" height="40"/></a>
 
 </br>
 
