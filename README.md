@@ -1,9 +1,6 @@
 <table width="100%" align="center">
 
-
-
-
-https://github.com/rivasbolinga/rivasbolinga/assets/103900838/2f800bc6-0c8c-42cb-a909-cb02a56e7ecb
+![andrea](https://github.com/rivasbolinga/rivasbolinga/assets/103900838/592bf3b2-db27-4d6b-bba6-dcd6f65693da)
 
 
 </div>
