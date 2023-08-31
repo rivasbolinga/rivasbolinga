@@ -19,7 +19,7 @@
 - 🌍 I am half Peruvian, born and raised in Spain and traveling around the world for the last 6 years.
 - 📁 You can see a bit of my hard work in my [Portfolio](https://github.com/rivasbolinga/Portfolio)
 - 📫 You can contact me at andrearivas4cinfor@gmail.com
-- 👩🏽‍💻 Currently working with React. 
+- 👩🏽‍💻 Currently working with Node.js with Nest.js and express. 
 - 🎨 Passionate for design and art.
 
 # Knowledge base
