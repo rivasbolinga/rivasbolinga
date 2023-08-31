@@ -115,7 +115,7 @@
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
 4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/natours-api](https://github.com/rivasbolinga/natours-api)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
