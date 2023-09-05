@@ -111,11 +111,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
-3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/chat-app](https://github.com/rivasbolinga/chat-app)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
