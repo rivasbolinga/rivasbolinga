@@ -114,8 +114,8 @@
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/awesome-chat-nestjs](https://github.com/rivasbolinga/awesome-chat-nestjs)
 2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/awesome-chat-nestjs](https://github.com/rivasbolinga/awesome-chat-nestjs)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/awesome-chat-nestjs](https://github.com/rivasbolinga/awesome-chat-nestjs)
-4. 📔 Created new repository [rivasbolinga/awesome-chat-nestjs](https://github.com/rivasbolinga/awesome-chat-nestjs)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/awesome-chat](https://github.com/rivasbolinga/awesome-chat)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/awesome-chat-nestjs](https://github.com/rivasbolinga/awesome-chat-nestjs)
+5. 📔 Created new repository [rivasbolinga/awesome-chat-nestjs](https://github.com/rivasbolinga/awesome-chat-nestjs)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
