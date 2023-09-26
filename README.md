@@ -111,11 +111,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/rivasbolinga/solve-conflicts/pull/1) in [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
-2. 📔 Created new repository [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
-3. 💪 Opened PR [#12](https://github.com/rivasbolinga/The-Gaming-Goat/pull/12) in [rivasbolinga/The-Gaming-Goat](https://github.com/rivasbolinga/The-Gaming-Goat)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/rivasbolinga](https://github.com/rivasbolinga/rivasbolinga)
-5. 🔱 Forked [rivasbolinga/react-spinners](https://github.com/rivasbolinga/react-spinners) from [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners)
+1. ⬆️ Pushed 2 commit(s) to [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+2. 🎉 Merged PR [#1](https://github.com/rivasbolinga/solve-conflicts/pull/1) in [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+3. 🤝 Became collaborator on [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+4. 🤝 Became collaborator on [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+5. 💪 Opened PR [#1](https://github.com/rivasbolinga/solve-conflicts/pull/1) in [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
