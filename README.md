@@ -112,9 +112,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
-2. ⬆️ Pushed 2 commit(s) to [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
-3. 🎉 Merged PR [#1](https://github.com/rivasbolinga/solve-conflicts/pull/1) in [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
-4. 🤝 Became collaborator on [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
+3. ⬆️ Pushed 2 commit(s) to [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+4. 🎉 Merged PR [#1](https://github.com/rivasbolinga/solve-conflicts/pull/1) in [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
 5. 🤝 Became collaborator on [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
 <!--RECENT_ACTIVITY:end-->
 
