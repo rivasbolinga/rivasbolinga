@@ -112,10 +112,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
-2. ⬆️ Pushed 2 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
+4. ⬆️ Pushed 2 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
