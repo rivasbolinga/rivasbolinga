@@ -17,7 +17,7 @@
 - 🔭 I’m a full-time student at Microverse Bootcamp School.
 - 🌱 I am currently working as Full Stack at Juubix.
 - 🌍 I am half Peruvian, born and raised in Spain, and traveling around the world for the last 6 years.
-- 📁 You can see a bit of my hard work in my [Portfolio](https://github.com/rivasbolinga/Portfolio)
+- 📁 You can see a bit of my hard work in my [Portfolio](https://andrearivaspalacios.com/)
 - 📫 You can contact me at andrearivas4cinfor@gmail.com
 - 👩🏽‍💻 Currently working with Node.js with Nest.js and express. 
 - 🎨 Passionate for design and art.
