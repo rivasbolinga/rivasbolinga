@@ -111,11 +111,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
-2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
-3. ⬆️ Pushed 2 commit(s) to [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
-4. 🎉 Merged PR [#1](https://github.com/rivasbolinga/solve-conflicts/pull/1) in [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
-5. 🤝 Became collaborator on [rivasbolinga/solve-conflicts](https://github.com/rivasbolinga/solve-conflicts)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
+2. ⬆️ Pushed 2 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/another-portfolio](https://github.com/rivasbolinga/another-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
+5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/amazon-kinesis](https://github.com/rivasbolinga/amazon-kinesis)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
