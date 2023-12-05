@@ -111,10 +111,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-2. ⬆️ Pushed 4 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-3. 🎉 Merged PR [#1](https://github.com/rivasbolinga/mastering-git/pull/1) in [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-4. 💪 Opened PR [#1](https://github.com/rivasbolinga/mastering-git/pull/1) in [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
+2. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
 5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
 <!--RECENT_ACTIVITY:end-->
 
