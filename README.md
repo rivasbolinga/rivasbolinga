@@ -111,11 +111,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-2. 🎉 Merged PR [#9](https://github.com/rivasbolinga/mastering-git/pull/9) in [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-3. 💪 Opened PR [#9](https://github.com/rivasbolinga/mastering-git/pull/9) in [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
+1. ⭐ Starred [bedimcode/login-form-input-google](https://github.com/bedimcode/login-form-input-google)
+2. ⭐ Starred [vijaythapa333/web-design-course-restaurant](https://github.com/vijaythapa333/web-design-course-restaurant)
+3. ⭐ Starred [OfficeDev/microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator)
+4. ⭐ Starred [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)
+5. ⬆️ Pushed 3 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
