@@ -111,11 +111,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bedimcode/login-form-input-google](https://github.com/bedimcode/login-form-input-google)
-2. ⭐ Starred [vijaythapa333/web-design-course-restaurant](https://github.com/vijaythapa333/web-design-course-restaurant)
-3. ⭐ Starred [OfficeDev/microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator)
-4. ⭐ Starred [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)
-5. ⬆️ Pushed 3 commit(s) to [rivasbolinga/mastering-git](https://github.com/rivasbolinga/mastering-git)
+1. ⭐ Starred [elmurod5676/elmurod5676](https://github.com/elmurod5676/elmurod5676)
+2. ⭐ Starred [elmurod5676/Digital-Clock_JS](https://github.com/elmurod5676/Digital-Clock_JS)
+3. ⭐ Starred [elmurod5676/Magic8Ball](https://github.com/elmurod5676/Magic8Ball)
+4. ⭐ Starred [elmurod5676/ImageViewer](https://github.com/elmurod5676/ImageViewer)
+5. ⭐ Starred [bedimcode/login-form-input-google](https://github.com/bedimcode/login-form-input-google)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
