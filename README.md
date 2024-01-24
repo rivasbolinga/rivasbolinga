@@ -111,11 +111,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elmurod5676/elmurod5676](https://github.com/elmurod5676/elmurod5676)
-2. ⭐ Starred [elmurod5676/Digital-Clock_JS](https://github.com/elmurod5676/Digital-Clock_JS)
-3. ⭐ Starred [elmurod5676/Magic8Ball](https://github.com/elmurod5676/Magic8Ball)
-4. ⭐ Starred [elmurod5676/ImageViewer](https://github.com/elmurod5676/ImageViewer)
-5. ⭐ Starred [bedimcode/login-form-input-google](https://github.com/bedimcode/login-form-input-google)
+1. ⭐ Starred [zayneio/open-flights](https://github.com/zayneio/open-flights)
+2. ⭐ Starred [elmurod5676/elmurod5676](https://github.com/elmurod5676/elmurod5676)
+3. ⭐ Starred [elmurod5676/Digital-Clock_JS](https://github.com/elmurod5676/Digital-Clock_JS)
+4. ⭐ Starred [elmurod5676/Magic8Ball](https://github.com/elmurod5676/Magic8Ball)
+5. ⭐ Starred [elmurod5676/ImageViewer](https://github.com/elmurod5676/ImageViewer)
 <!--RECENT_ACTIVITY:end-->
 
 <details> 
